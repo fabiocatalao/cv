@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: mail@fabiocatalao.com
-    phone: 012 345 6789
+    phone:
     timezone: Europe/Zurich
     citizenship:
     website: fabiocatalao.com #do not add http://
@@ -71,7 +71,7 @@ education:
 
 experiences:
     - role: Senior Big Data Engineer
-      time: 2016-2018
+      time: 2019-Present
       company: Credit Suisse, Lausanne, Switzerland
       details: |
         Senior Big Data Engineer at Credit Suisse with responsibilities in developing and maintaining data processes within a bank data science lab.
@@ -172,6 +172,12 @@ experiences:
 #     toolset:
 #       - name: Python & Django
 #         level: 98%
+
+#skills:
+#    title: Skills
+#    toolset:
+#        - name: Python, PHP, Bash, SQL, Java
+#        - name: Databases, Big Data, Hive, Kafka, Data Warehousing, Elasticsearch, Docker, Redis, MySQL, Oracle SQL, Apache SOLR, GIT, WeDo RAID, Ansible, Palantir Foundry, Linux, HDFS
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
