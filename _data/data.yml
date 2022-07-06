@@ -7,188 +7,171 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Fabio Catalao
+    tagline: Data Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: mail@fabiocatalao.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: Europe/Zurich
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: fabiocatalao.com #do not add http://
+    linkedin: fabiocatalao
+    xing:
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf # TODO here
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
-
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Advanced
+      - idiom: French
+        level: Intermediate
 
     interests:
+      - item: Montaineering
+        link:
       - item: Climbing
         link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Skiing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I studied at University of Minho (Braga, Portugal) from 2008 to 2013 where I took my Informatics Engineering Bachelor and my Informatics Engineering Masters, the last one focused on Business Intelligence Systems and Machine Learning with strong Data Warehousing and Data Mining dimensions.
+      After my studies, I worked at WeDo Technologies as Data Engineer (2013-2016), taking part in a team responsible for the implementation and maintenance of WeDo proprietary revenue assurance solution at Sonae, one of the biggest retail companies in Portugal.
+      Later, I worked as a Backend Software Engineer at BySide (2016 and 2018). There I worked in web development, data handling, and enhancing the performance of various services.
+      I'm currently working as a Data Engineer for the Credit Suisse Compliance department (since 2019) on a project responsible for sourcing data from a great diversity of sources into an analytical platform to provide the needed data to Data Scientists. I'm working as a Data Engineer sourcing data, collaborating on the development of an internal ETL solution as well as designing pipeline development and deployment processes. As a senior member of the team, I am a technical advisor for the rest of my team and our stakeholders.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc Informatics Engineering 2013
+      university: Universidade do Minho, Braga, Portugal
+      time: 2011-2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Dissertation: "Analysis of the influence of stress on the interaction with the computer".
+          - Machine Learning and Knowledge Extraction. Data Mining;
+          - Data Warehousing Systems and Online Analytical Processing.
+    - degree: Bachelor Informatics Engineering 2011
+      university: Universidade do Minho, Braga, Portugal
+      time: 2008-2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Software requirements, Modeling & Analysis;
+          - Design, development, testing and maintenance of software;
+          - Advanced Administration and Exploitation of Database Systems;
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Big Data Engineer
+      time: 2016-2018
+      company: Credit Suisse, Lausanne, Switzerland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Senior Big Data Engineer at Credit Suisse with responsibilities in developing and maintaining data processes within a bank data science lab.
+          - Work closely with Data Owners, Business and Data Scientist Project teams to clarify requirements;
+          - Data discovery and understanding of source systems, capturing metadata, mapping data elements to business data requirements and data profiling;
+          - Development of data sourcing pipelines into Palantir Foundry using the in-house Enzyme framework;
+          - Development of custom connectors (as well as data transformers) to multiple sourcing systems: REST APIs, databases, file transfer protocols, etc;
+          - Manipulation of data in different tools available in the company: NAS filesystems, S3 storage, HDFS, databases, etc;
+          - Contribution to Enzyme framework (mostly Python code) developing new features and bug fixes;
+          - Maintenance and enhancement of Enzyme's Data Quality control framework;
+          - Prepare technical deployment specifications for the support team and the implementation of data quality checks;
+          - Maintenance of the metadata and feed catalog;
+          - Management of version control software (git/Bitbucket) and code deployment tools (Atlassian Transporter/Jenkins);
+          - Development of data sourcing and data handling pipelines using Python, PySpark, and BASH;
+          - Management and integration of the alerting system and integration with Moogsoft;
+          - Training new joiners in the data sourcing process and Credit Suisse tools;
+          - Technical advisor for the rest of the team and other stakeholders.
+    - role: Software Engineer
+      time: 2016-2018
+      company: BySide, Porto, Portugal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Software Engineer at BySide, working with the following technologies:
+          - Design, implementation, and maintenance of several systems such as Elasticsearch, Zookeeper, Redis Cluster, and Kafka;
+          - Data handling using MySQL, Elasticsearch, and Redis;
+          - Implementation of several Kafka producers and consumers mostly in JAVA and PHP;
+          - Implementation of a real-time MySQL replication system to Elasticsearch (using JAVA and Kafka);
+          - Deployment of several Bash scripts for deployment and automatization on our servers;
+          - Web Back-End development using PHP and Symfony framework;
+          - Development of several high-performance services such as data replication, data imports, and batch processing of marketing campaigns;
+          - Design and development of a REST API using Symfony;
+          - Devops function with the deployment of infrastructure services using Ansible on CentOS and  Continuous Integration and Deployment with Gitlab CI/CD
+    - role: Data Engineer
+      time: 2013-2016
+      company: WeDo Technologies, Porto, Portugal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Development of new features and maintenance of the WeDo RAID platform at Sonae MCH, one of the biggest retail companies in Portugal.
+          - Collection of stakeholders' needs and requirements, and design of solutions;
+          - Development of integration processes from diverse data sources using RAID integration tools and PL/SQL packages;
+          - Handling and analysis of large volumes of data on Oracle Databases;
+          - Tuning and optimization of SQL queries by altering database design, analyzing different query options, and indexing strategies;
+          - Development of data validation processes on the implemented platform;
+          - Implementation of Analytical and Operational Dashboards;
+          - Monitoring the performance and reliability of processes' execution on a Linux server environment; 
+          - Review, validation and supervision of new projects deployment into a RAID production environment.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-skills:
-    title: Skills &amp; Proficiency
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
