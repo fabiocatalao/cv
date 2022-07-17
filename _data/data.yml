@@ -48,9 +48,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I studied at University of Minho (Braga, Portugal) from 2008 to 2013 where I took my Informatics Engineering Bachelor and my Informatics Engineering Masters, the last one focused on Business Intelligence Systems and Machine Learning with strong Data Warehousing and Data Mining dimensions. |
-      After my studies, I worked at WeDo Technologies as Data Engineer (2013-2016), taking part in a team responsible for the implementation and maintenance of WeDo proprietary revenue assurance solution at Sonae, one of the biggest retail companies in Portugal. |
-      Later, I worked as a Backend Software Engineer at BySide (2016 and 2018). There I worked in web development, data handling, and enhancing the performance of various services. |
+      I studied at University of Minho (Braga, Portugal) from 2008 to 2013 where I took my Informatics Engineering Bachelor and my Informatics Engineering Masters, the last one focused on Business Intelligence Systems and Machine Learning with strong Data Warehousing and Data Mining dimensions. <br>
+      After my studies, I worked at WeDo Technologies as Data Engineer (2013-2016), taking part in a team responsible for the implementation and maintenance of WeDo proprietary revenue assurance solution at Sonae, one of the biggest retail companies in Portugal. <br>
+      Later, I worked as a Backend Software Engineer at BySide (2016 and 2018). There I worked in web development, data handling, and enhancing the performance of various services. <br>
       I'm currently working as a Data Engineer for the Credit Suisse Compliance department (since 2019) on a project responsible for sourcing data from a great diversity of sources into an analytical platform to provide the needed data to Data Scientists. I'm working as a Data Engineer sourcing data, collaborating on the development of an internal ETL solution as well as designing pipeline development and deployment processes. As a senior member of the team, I am a technical advisor for the rest of my team and our stakeholders.
 
 education:
