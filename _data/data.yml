@@ -48,10 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I studied at University of Minho (Braga, Portugal) from 2008 to 2013 where I took my Informatics Engineering Bachelor and my Informatics Engineering Masters, the last one focused on Business Intelligence Systems and Machine Learning with strong Data Warehousing and Data Mining dimensions. <br>
-      After my studies, I worked at WeDo Technologies as Data Engineer (2013-2016), taking part in a team responsible for the implementation and maintenance of WeDo proprietary revenue assurance solution at Sonae, one of the biggest retail companies in Portugal. <br>
-      Later, I worked as a Backend Software Engineer at BySide (2016 and 2018). There I worked in web development, data handling, and enhancing the performance of various services. <br>
-      I'm currently working as a Data Engineer for the Credit Suisse Compliance department (since 2019) on a project responsible for sourcing data from a great diversity of sources into an analytical platform to provide the needed data to Data Scientists. I'm working as a Data Engineer sourcing data, collaborating on the development of an internal ETL solution as well as designing pipeline development and deployment processes. As a senior member of the team, I am a technical advisor for the rest of my team and our stakeholders.
+      Educational background in Software Engineering with a specialization in Data. Versatile experience as both a Cloud, Data and Software Engineer. Currently employed as a Cloud Data Engineer at UBS, specializing in Azure infrastructure, security and data pipelines.
+      Operates a homelab that allows practicing DevOps principles, configuring networks, developing utilities, deploying applications using Ansible and Docker, and monitoring with Grafana.
 
 education:
     - degree: MSc Informatics Engineering 2013
@@ -71,8 +69,19 @@ education:
 
 experiences:
     - role: Senior Big Data Engineer
-      time: 2019-Present
-      company: Credit Suisse, Lausanne, Switzerland
+      time: 2024-Present
+      company: UBS, Lausanne, Switzerland
+      details: |
+        Senior Cloud/Data Engineer
+          - Design, deploy, and manage cloud infrastructure on Microsoft Azure using GitLab CI/CD, Azure DevOps, and ARM templates, ensuring scalable and secure environment;
+          - Azure Kubernetes Services (AKS) Optimization: Develop, debug, and enhance AKS performance, improving resource utilization and reducing operational costs;
+          - Data Pipeline Development: Build and maintain scalable data pipelines using Python, Databricks, and Apache Airflow, ensuring efficient ETL processing and data orchestration;
+          - Configure network security rules and implement segregated access controls for Azure storage, ensuring compliance with data governance policies;
+          - Work closely with data analysts, data scientists, and DevOps teams to optimize data solutions and drive business insights;
+          - Automate deployment, monitoring, and maintenance processes to enhance system reliability and operational efficiency.
+    - role: Senior Big Data Engineer
+      time: 2019-2024
+      company: Credit Suisse (UBS Group), Lausanne, Switzerland
       details: |
         Senior Big Data Engineer at Credit Suisse with responsibilities in developing and maintaining data processes within a bank data science lab.
           - Work closely with Data Owners, Business and Data Scientist Project teams to clarify requirements;
